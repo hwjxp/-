@@ -1,0 +1,10 @@
+{
+  "name": "Super Picool Asset Management",
+  "description": "An enterprise-grade internal gallery and IP asset management system for creative teams to manage, review, and distribute design assets like PNGs, PSDs, and videos.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
